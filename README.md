@@ -78,7 +78,7 @@
 
 ---
 
-### 🧠 Typing Animation  
+### 🧠 Skills
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F700&center=true&vCenter=true&width=550&lines=Java+Backend+Developer;Spring+Boot+%26+AI+Integrator;Python+%7C+ML+Enthusiast;Building+AI+Powered+CV+Applications" alt="Typing SVG" />
