@@ -74,17 +74,7 @@
   
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manabendu-ai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/Manabendu-ai)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manabendu-ai&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=Manabendu-ai)](https://github.com/Manabendu-ai)
-
-</div>
-
----
-
-## 🔥 GitHub Activity
-
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Manabendu-ai&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://github.com/Manabendu-ai)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manabendu-ai&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=Manabendu-ai&hide=jupyter%20notebook)](https://github.com/Manabendu-ai)
 
 </div>
 
