@@ -71,8 +71,11 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manabendukarfa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manabendukarfa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
+  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manabendu-ai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/Manabendu-ai)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manabendu-ai&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=Manabendu-ai)](https://github.com/Manabendu-ai)
+
 </div>
 
 ---
@@ -80,15 +83,19 @@
 ## 🔥 GitHub Streak
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manabendukarfa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Manabendu-ai&theme=tokyonight&hide_border=true)](https://github.com/Manabendu-ai)
+
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manabendukarfa&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Manabendu-ai&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Activity)](https://github.com/Manabendu-ai)
+
 </div>
 
 ---
