@@ -1,105 +1,121 @@
-<h1 align="center">Hey there 👋, I'm Manabendu Karfa</h1>
-<h3 align="center">💻 Java Backend Developer | 🧠 AI/ML Enthusiast |</h3>
+<div align="center">
+
+# 👋 Hey there, I'm Manabendu Karfa
+
+### 💻 Java Backend Developer | 🧠 AI/ML Enthusiast | 🚀 Full Stack Explorer
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Spring+Boot+%26+AI+Integrator;Python+%7C+ML+Enthusiast;Building+AI-Powered+Applications;React+%7C+Full+Stack+Developer" alt="Typing SVG" />
+
+</div>
 
 ---
 
-### 🚀 About Me  
-- 💡 Passionate about **Backend Development** and **AI Integration**  
-- ☕ Expert in **Java, Spring Boot, Hibernate, JPA, JDBC**  
-- 🧠 Exploring **AI/ML** with Python and **Spring AI**  
-- 🗄️ Experienced with **MySQL, PostgreSQL, MongoDB**  
-- 🧩 Love building **intelligent applications** that blend AI and backend logic  
-- ⚙️ Always learning and contributing to open source projects  
+## 🚀 About Me
+
+- 💡 Passionate about **Backend Development** and **AI Integration**
+- ☕ Expert in **Java, Spring Boot, Hibernate, JPA, JDBC**
+- 🧠 Exploring **AI/ML** with Python and **Spring AI**
+- ⚛️ Building modern UIs with **React**
+- 📱 Learning **Kotlin** for Android and backend development
+- 🗄️ Experienced with **MySQL, PostgreSQL, MongoDB**
+- 🧩 Love building **intelligent applications** that blend AI and backend logic
+- ⚙️ Always learning and contributing to open source projects
 
 ---
 
-### 🧰 Tech Stack  
+## 🧰 Tech Stack
 
-#### 💻 Languages  
+### 💻 Languages
+
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,kotlin" alt="Languages" />
 </p>
 
-#### 🧠 Backend Frameworks & Tools  
+### 🎨 Frontend
+
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" height="45" alt="Spring"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="45" height="45" alt="Maven"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" width="45" height="45" alt="Hibernate"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/>
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" alt="Frontend" />
 </p>
 
-#### 🗄️ Databases  
+### 🧠 Backend Frameworks & Tools
+
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB"/>
+  <img src="https://skillicons.dev/icons?i=spring,hibernate,maven,git,docker,linux" alt="Backend Tools" />
 </p>
 
-#### ☁️ Other Tools & Platforms  
+### 🗄️ Databases
+
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="45" height="45" alt="IntelliJ"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis" alt="Databases" />
+</p>
+
+### 🛠️ Development Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=idea,vscode,postman,github,figma" alt="Tools" />
 </p>
 
 ---
 
-### 🧩 Current Focus  
-- 🚀 Building **AI-powered Java Backend Applications**  
-- 🧠 Integrating **Spring Boot + Spring AI + ML models**  
-- 📈 Improving **system design** and **cloud deployment**  
+## 🧩 Current Focus
+
+- 🚀 Building **AI-powered Java Backend Applications**
+- ⚛️ Developing **React-based frontend interfaces**
+- 🧠 Integrating **Spring Boot + Spring AI + ML models**
+- 📱 Exploring **Kotlin** for modern application development
+- 📈 Improving **system design** and **cloud deployment**
 - 🧬 Researching **AI-driven automation** and **CV-based applications**
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manabendukarfa&show_icons=true&theme=radical" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manabendukarfa&layout=compact&theme=radical" height="165">
-</p>
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manabendukarfa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manabendukarfa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
+</div>
 
 ---
 
-### 🔥 Streaks & Achievements  
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=manabendukarfa&theme=tokyonight" alt="GitHub Streak" />
-</p>
+## 🔥 GitHub Streak
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manabendukarfa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ---
 
-### 🏆 GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manabendukarfa&theme=onedark&row=1&column=6" />
-</p>
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manabendukarfa&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</div>
 
 ---
 
-### 🧠 Skills
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F700&center=true&vCenter=true&width=550&lines=Java+Backend+Developer;Spring+Boot+%26+AI+Integrator;Python+%7C+ML+Enthusiast;Building+AI+Powered+CV+Applications" alt="Typing SVG" />
-  </a>
-</p>
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manabendu-karfa-890ba52a3)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rikugithub@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manabendu-ai)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](#)
+
+</div>
 
 ---
 
-### 🌐 Connect With Me  
-<p align="center">
-  <a href="www.linkedin.com/in/manabendu-karfa-890ba52a3" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:rikugithub@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Manabendu-ai">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github" />
-  </a>
-</p>
+<div align="center">
+
+### 💭 Quote of the Day
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
-⭐ **“Code with logic, automate with intelligence, and build with purpose.”**
+⭐ **"Code with logic, automate with intelligence, and build with purpose."**
+
+![Profile Views](https://komarev.com/ghpvc/?username=manabendukarfa&color=blueviolet&style=flat-square&label=Profile+Views)
+
+</div>
