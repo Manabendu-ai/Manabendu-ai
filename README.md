@@ -68,28 +68,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manabendu-ai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/Manabendu-ai)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manabendu-ai&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=Manabendu-ai&hide=jupyter%20notebook)](https://github.com/Manabendu-ai)
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-  
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Manabendu-ai&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Activity)](https://github.com/Manabendu-ai)
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
