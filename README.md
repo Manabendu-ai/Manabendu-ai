@@ -1,146 +1,172 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Manabendu%20Karfa&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Backend%20%26%20LLM%20Systems%20Builder&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6,24&height=250&section=header&text=Hey%2C%20I'm%20Manabendu%20%F0%9F%91%8B&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%2FML%20Engineer%20✦%20LLM%20%26%20Agentic%20Systems%20✦%20Backend%20Architect&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=750&lines=AI%2FML+Engineer+%7C+LLM+%26+RAG+Systems;Java+%2B+Spring+Boot+Backend+Architect;Building+Autonomous+%26+Agentic+Systems;Open+Source+Contributor+%40+SWOC;Currently%3A+GPS-Denied+Drone+%2B+LLM+Mission+Planner" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2600&pause=800&color=F72585,00F5D4,FEE440,4CC9F0&center=true&vCenter=true&multiline=false&width=800&lines=Training+models%2C+shipping+microservices+%F0%9F%9A%80;Building+LLM-powered+autonomous+drones+%F0%9F%9A%81;Java+%2B+Spring+Boot+by+day%2C+PyTorch+by+night+%F0%9F%94%A5;Open+Source+Contributor+%40+SWOC+2025-26+%F0%9F%8C%B1;Always+curious%2C+always+building+%E2%9C%A8" alt="Typing SVG" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manabendu-karfa-890ba52a3)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:technoriku@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manabendu-ai)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](#)
+<a href="https://www.linkedin.com/in/manabendu-karfa-890ba52a3"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:technoriku@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/Manabendu-ai"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6,24&height=6&section=header"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,100:0f2027&height=2&width=100%"/>
+<br/>
 
-## 🧬 About Me
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
-```python
-class Manabendu:
-    def __init__(self):
-        self.role       = "AI/ML Engineer & Backend Developer"
-        self.education  = "B.E. AI & ML @ Cambridge Institute of Technology (CGPA: 8.5)"
-        self.currently  = "Building LLM-driven autonomous systems + Java microservices"
-        self.focus      = ["LLMs & RAG", "Computer Vision", "Spring Boot Microservices", "Agentic AI"]
-        self.fun_fact   = "I've shipped a merged open-source PR AND designed a GPS-denied autonomous drone 🚁"
+<br/>
 
-    def currently_exploring(self):
-        return ["Spring AI + Ollama", "LangChain", "ROS 2 + Visual-Inertial SLAM", "Agentic RAG pipelines"]
-```
+## ✨ Quick Glance
 
-- 🎓 Pursuing **B.E. in Artificial Intelligence & Machine Learning** — CGPA **8.5**
-- 💼 Former **Software Developer Intern @ TwinTallies** — built internal dashboards & automation with Java + Spring Boot
-- 🌍 **Open Source Contributor** — Social Winter of Code (SWOC) 2025–26, plus independent contributions ([see below](#-open-source-footprint))
-- 🧠 Deep interest in **LLMs, RAG pipelines, Computer Vision, and Autonomous Systems**
-- ⚡ Currently architecting an **LLM-controlled autonomous drone** and an event-driven **energy monitoring microservices platform**
-- 🏆 2nd Place — HACKTRONICS (Agritech Domain), CMRIT College
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,100:0f2027&height=2&width=100%"/>
+### 🎯 Who I Am
+🎓 **AI/ML Engineer-in-training** — B.E. AI & ML, CGPA **8.5**
+💼 Ex-**Software Developer Intern** @ TwinTallies
+🌱 **Open Source Contributor** — SWOC 2025–26
+🥈 **2nd Place** — HACKTRONICS Agritech Domain
+🔥 **50-Day Streak Badge** — LeetCode
 
-## 🧠 AI / ML & LLM Stack
+</td>
+<td width="50%" valign="top">
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/XGBoost-0E7C7B?style=for-the-badge&logo=xgboost&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring%20AI-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAG%20Pipelines-8A2BE2?style=for-the-badge"/>
-</p>
+### 🚀 What I Love Building
+🛸 LLM-powered **autonomous drones**
+⚡ Event-driven **microservice platforms**
+🧠 **RAG pipelines** & agentic AI systems
+🖥️ Full-stack apps with a Java + Python soul
+📊 Anything with a dashboard and a model behind it
 
-## ⚙️ Backend & Systems
+</td>
+</tr>
+</table>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-</p>
+<br/>
 
-## 💻 Languages & Databases
+<div align="center">
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,c,js,mysql,postgres,sqlite,mongodb" />
-</p>
+## 🧠 My AI / ML & LLM Universe
 
-## 🛠️ Tools & DevOps
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-2FA5A0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20AI-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG%20%26%20Agentic%20AI-8A2BE2?style=for-the-badge"/>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,idea,jupyter,gradle,maven" />
-</p>
+## ⚙️ Backend & Systems Engineering
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,100:0f2027&height=2&width=100%"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 
-## 🚀 Featured Projects
+## 💻 Languages & Data
+
+<img src="https://skillicons.dev/icons?i=java,python,c,js,mysql,postgres,sqlite,mongodb&theme=dark" />
+
+## 🛠️ Toolbox
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,idea,jupyter,gradle,maven&theme=dark" />
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6,24&height=6&section=header"/>
+
+## 🚀 Projects I'm Proud Of
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🛸 LLM-Controlled Autonomous GPS-Denied Drone
-> `ROS 2` · `Visual-Inertial SLAM` · `LLM Mission Planning` · `Computer Vision`
+`ROS 2` `Visual-Inertial SLAM` `LLM Planning` `Computer Vision`
 
-An autonomous UAV designed for GPS-denied environments — fusing RGB-D camera, IMU, and LiDAR data through Visual-Inertial SLAM for real-time localization and 3D mapping. Features an **LLM-based mission planner** that converts natural-language operator commands into executable flight missions, replacing rigid waypoint programming, alongside onboard perception models for hazard detection and semantic scene understanding.
+An autonomous UAV built for GPS-denied environments — fusing RGB-D camera, IMU & LiDAR through Visual-Inertial SLAM for real-time localization and mapping. An **LLM-based mission planner** turns plain-English commands into flight missions, no waypoint programming needed, backed by onboard hazard-detection and scene-understanding models. 🌾🏗️🚨 Dual-use across agriculture, inspection, and disaster response.
+
+</td>
+<td width="50%" valign="top">
 
 ### ⚡ Rikify Energy Tracker
-> `Java 21` · `Spring Boot 4` · `Kafka` · `Docker` · `Spring AI`
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Manabendu-ai/Rikify-Energy-Tracker)
+`Java 21` `Spring Boot 4` `Kafka` `Docker` `Spring AI`
 
-A 7-service microservices reference platform behind a single Spring Cloud Gateway — event-driven ingestion via Kafka, time-series storage in InfluxDB, resilience via Resilience4j, OAuth2/JWT security through Keycloak, full observability with Prometheus + Grafana, and an **LLM-backed insight service** (Spring AI + Ollama) generating natural-language usage summaries.
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Manabendu-ai/Rikify-Energy-Tracker)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,100:0f2027&height=2&width=100%"/>
+A **7-service microservices platform** behind one gateway — Kafka-driven ingestion, InfluxDB time-series + MySQL, Resilience4j fault tolerance, OAuth2/JWT via Keycloak, Prometheus + Grafana observability, and an **LLM insight service** (Spring AI + Ollama) that writes plain-English usage summaries. 📊🔐📈
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6,24&height=6&section=header"/>
 
 ## 🌱 Open Source Footprint
 
-[![Open Source Log](https://img.shields.io/badge/📂_View_Full_Contribution_Log-00c6ff?style=for-the-badge)](https://github.com/Manabendu-ai/Open-Source-Contributions)
+<div align="center">
 
-| Project | Type | Status |
+[![Open Source Log](https://img.shields.io/badge/📂_Full_Contribution_Log-4CC9F0?style=for-the-badge)](https://github.com/Manabendu-ai/Open-Source-Contributions)
+[![SWOC](https://img.shields.io/badge/🌍_SWOC_2025--26_Contributor-F72585?style=for-the-badge)](#)
+
+</div>
+
+| 🗂️ Project | 🏷️ Type | 🎯 Status |
 |---|---|---|
-| [sklearn-genetic-opt](https://github.com/rodrigo-arenas/Sklearn-genetic-opt) | 🧪 Test Coverage (`_candidate_label`) | ✅ Merged — [PR #307](https://github.com/rodrigo-arenas/Sklearn-genetic-opt/pull/307) |
+| [sklearn-genetic-opt](https://github.com/rodrigo-arenas/Sklearn-genetic-opt) | 🧪 Test Coverage for `_candidate_label` | ✅ **Merged** — [PR #307](https://github.com/rodrigo-arenas/Sklearn-genetic-opt/pull/307) |
 
-Also an active contributor through **Social Winter of Code (SWOC) 2025–26** — collaborating with mentors and a distributed developer community across multiple real-world open-source projects.
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,100:0f2027&height=2&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6,24&height=6&section=header"/>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Manabendu-ai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manabendu-ai&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Manabendu-ai&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F72585&icon_color=4CC9F0"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manabendu-ai&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F72585"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Manabendu-ai&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Manabendu-ai&theme=radical&hide_border=true&background=0D1117&ring=F72585&fire=FEE440&currStreakLabel=4CC9F0"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Manabendu-ai&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Manabendu-ai&theme=redical&bg_color=0D1117&color=F72585&line=4CC9F0&point=FEE440&hide_border=true"/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,100:0f2027&height=2&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6,24&height=6&section=header"/>
 
 ## 🏆 Leadership & Achievements
 
-- 🥈 **2nd Place — Agritech Domain**, HACKTRONICS (Circuit to Cloud), CMRIT College
-- 🎖️ **50 Days Badge** — LeetCode 2026
-- 🎓 **President, Maths Club** — St. Joseph's Pre-University College (2022–2024)
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,100:0f2027&height=2&width=100%"/>
+🥈 **2nd Place** — Agritech Domain, HACKTRONICS (Circuit to Cloud), CMRIT College &nbsp;|&nbsp; 🎖️ **50 Days Badge** — LeetCode 2026 &nbsp;|&nbsp; 🎓 **President, Maths Club** — St. Joseph's PU College
+
+</div>
+
+<br/>
 
 <div align="center">
 
-### 💭 
-⭐ *"Code with logic, automate with intelligence, and build with purpose."*
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+### ⭐ *"Code with logic, automate with intelligence, and build with purpose."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=Manabendu-ai&color=00c6ff&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Manabendu-ai&color=F72585&style=for-the-badge&label=PROFILE+VIEWS)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6,24&height=150&section=footer"/>
 
 </div>
