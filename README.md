@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&duration=3000&pause=1500&color=F72585&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=70&lines=Hi%2C+This+is+Manabendu+Karfa!" alt="Header" />
+<!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&duration=3000&pause=1500&color=F72585&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=70&lines=Hi%2C+This+is+Manabendu+Karfa!" alt="Header" /> -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Manabendu%20Karfa&fontSize=50&fontAlignY=35"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2600&pause=800&color=F72585,00F5D4,FEE440,4CC9F0&center=true&vCenter=true&multiline=false&width=800&lines=Training+models%2C+shipping+microservices;Building+LLM-powered+autonomous+drones;Java+%2B+Spring+Boot+by+day%2C+PyTorch+by+night;Open+Source+Contributor+at+SWOC+2025-26;Always+curious%2C+always+building" alt="Typing SVG" />
 
