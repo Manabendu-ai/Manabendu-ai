@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6,24&height=250&section=header&text=Hey%2C%20I'm%20Manabendu%20%F0%9F%91%8B&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%2FML%20Engineer%20✦%20LLM%20%26%20Agentic%20Systems%20✦%20Backend%20Architect&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&duration=3000&pause=1500&color=F72585&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=70&lines=Hi%2C+This+is+Manabendu+Karfa!" alt="Header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2600&pause=800&color=F72585,00F5D4,FEE440,4CC9F0&center=true&vCenter=true&multiline=false&width=800&lines=Training+models%2C+shipping+microservices+%F0%9F%9A%80;Building+LLM-powered+autonomous+drones+%F0%9F%9A%81;Java+%2B+Spring+Boot+by+day%2C+PyTorch+by+night+%F0%9F%94%A5;Open+Source+Contributor+%40+SWOC+2025-26+%F0%9F%8C%B1;Always+curious%2C+always+building+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2600&pause=800&color=F72585,00F5D4,FEE440,4CC9F0&center=true&vCenter=true&multiline=false&width=800&lines=Training+models%2C+shipping+microservices;Building+LLM-powered+autonomous+drones;Java+%2B+Spring+Boot+by+day%2C+PyTorch+by+night;Open+Source+Contributor+at+SWOC+2025-26;Always+curious%2C+always+building" alt="Typing SVG" />
 
 <br/>
 
@@ -131,7 +131,7 @@ A **7-service microservices platform** behind one gateway — Kafka-driven inges
 
 <div align="center">
 
-[![Open Source Log](https://img.shields.io/badge/📂_Full_Contribution_Log-4CC9F0?style=for-the-badge)](https://github.com/Manabendu-ai/Open-Source-Contributions)
+[![Open Source Log](https://img.shields.io/badge/Full%20Contribution%20Log-4CC9F0?style=for-the-badge&logo=bookstack&logoColor=white)](https://github.com/Manabendu-ai/Open-Source-Contributions)
 [![SWOC](https://img.shields.io/badge/🌍_SWOC_2025--26_Contributor-F72585?style=for-the-badge)](#)
 
 </div>
@@ -147,8 +147,7 @@ A **7-service microservices platform** behind one gateway — Kafka-driven inges
 ## 📊 GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Manabendu-ai&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F72585&icon_color=4CC9F0"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manabendu-ai&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F72585"/>
+
 </div>
 
 <div align="center">
