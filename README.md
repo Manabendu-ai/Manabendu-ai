@@ -54,25 +54,37 @@
 
 ## 🧠 My AI / ML & LLM Universe
 
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/XGBoost-2FA5A0?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black"/>
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring%20AI-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/RAG%20%26%20Agentic%20AI-8A2BE2?style=for-the-badge"/>
+<table>
+<tr>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=sklearn" height="50"/><br/><sub><b>Scikit-learn</b></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=tensorflow" height="50"/><br/><sub><b>TensorFlow</b></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=pytorch" height="50"/><br/><sub><b>PyTorch</b></sub></td>
+<td align="center" width="110"><img src="https://img.shields.io/badge/-%E2%80%8B-2FA5A0?style=for-the-badge" height="50"/><br/><sub><b>XGBoost</b></sub></td>
+<td align="center" width="110"><img src="https://img.shields.io/badge/-%E2%80%8B-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="50"/><br/><sub><b>LangChain</b></sub></td>
+</tr>
+<tr>
+<td align="center" width="110"><img src="https://img.shields.io/badge/-%E2%80%8B-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="50"/><br/><sub><b>Hugging Face</b></sub></td>
+<td align="center" width="110"><img src="https://img.shields.io/badge/-%E2%80%8B-000000?style=for-the-badge&logo=ollama&logoColor=white" height="50"/><br/><sub><b>Ollama</b></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=spring" height="50"/><br/><sub><b>Spring AI</b></sub></td>
+<td align="center" width="110"><img src="https://img.shields.io/badge/-🔎-8A2BE2?style=for-the-badge" height="50"/><br/><sub><b>RAG & Agentic AI</b></sub></td>
+</tr>
+</table>
 
 ## ⚙️ Backend & Systems Engineering
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<table>
+<tr>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=java" height="50"/><br/><sub><b>Java</b></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=spring" height="50"/><br/><sub><b>Spring Boot</b></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=fastapi" height="50"/><br/><sub><b>FastAPI</b></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=kafka" height="50"/><br/><sub><b>Kafka</b></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=hibernate" height="50"/><br/><sub><b>Hibernate</b></sub></td>
+</tr>
+<tr>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=docker" height="50"/><br/><sub><b>Docker</b></sub></td>
+<td align="center" width="110"><img src="https://img.shields.io/badge/-%E2%80%8B-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="50"/><br/><sub><b>Streamlit</b></sub></td>
+</tr>
+</table>
 
 ## 💻 Languages & Data
 
@@ -80,7 +92,7 @@
 
 ## 🛠️ Toolbox
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,idea,jupyter,gradle,maven&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,idea,anaconda,gradle,maven&theme=dark" />
 
 </div>
 
