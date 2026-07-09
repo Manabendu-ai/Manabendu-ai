@@ -146,20 +146,6 @@ A **7-service microservices platform** behind one gateway — Kafka-driven inges
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6,24&height=6&section=header"/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Manabendu-ai&theme=radical&hide_border=true&background=0D1117&ring=F72585&fire=FEE440&currStreakLabel=4CC9F0"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Manabendu-ai&theme=redical&bg_color=0D1117&color=F72585&line=4CC9F0&point=FEE440&hide_border=true"/>
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6,24&height=6&section=header"/>
 
 ## 🏆 Leadership & Achievements
