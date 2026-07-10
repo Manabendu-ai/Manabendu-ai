@@ -73,7 +73,7 @@
 </tr>
 </table>
 
-## ⚙️ Backend & System Engineering
+## ⚙️ Backend & Systems Engineering
 
 <table>
 <tr>
