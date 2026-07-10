@@ -1,5 +1,4 @@
 <div align="center">
-
 <!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&duration=3000&pause=1500&color=F72585&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=70&lines=Hi%2C+This+is+Manabendu+Karfa!" alt="Header" /> -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Manabendu%20Karfa&fontSize=50&fontAlignY=35"/>
