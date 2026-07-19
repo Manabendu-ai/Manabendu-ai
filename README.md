@@ -1,6 +1,6 @@
 <div align="center">
 
-<img></div>img>
+
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Manabendu%20Karfa&fontSize=50&fontAlignY=35"/>
