@@ -1,50 +1,49 @@
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=B026FF&background=0D1117&center=true&vCenter=true&width=800&lines=Manabendu+Karfa" alt="Name" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Manabendu%20Karfa&fontSize=50&fontAlignY=35"/>
-
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2600&pause=800&color=F72585,00F5D4,FEE440,4CC9F0&center=true&vCenter=true&multiline=false&width=800&lines=Training+models%2C+shipping+microservices;Building+LLM-powered+autonomous+drones;Java+%2B+Spring+Boot+by+day%2C+PyTorch+by+night;Open+Source+Contributor+at+SWOC+2025-26;Always+curious%2C+always+building" alt="Typing SVG" />
-
-<br/>
-
-<a href="https://www.linkedin.com/in/manabendu-karfa-890ba52a3"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:technoriku@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/Manabendu-ai"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6,24&height=6&section=header"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2600&pause=800&color=00F5A0,4CC9F0,FEE440&background=0D1117&center=true&vCenter=true&multiline=false&width=800&lines=Training+models%2C+shipping+microservices;Building+LLM-powered+autonomous+drones;Java+%2B+Spring+Boot+by+day%2C+PyTorch+by+night;Open+Source+Contributor+at+SWOC+2025-26;Always+curious%2C+always+building" alt="Typing SVG" />
 
 </div>
 
 <br/>
 
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
-
-<br/>
-
-## ✨ Quick Glance
-
-<table align="center">
+<table width="100%" style="background-color:#0D1117;">
 <tr>
-<td width="50%" valign="top">
+<td width="30%" valign="top" align="center" style="background-color:#0D1117;">
 
-### 🎯 Who I Am
-🎓 **AI/ML Engineer-in-training** — B.E. AI & ML, CGPA **8.5**
-💼 Ex-**Software Developer Intern** @ TwinTallies
-🌱 **Open Source Contributor** — SWOC 2025–26
-🥈 **2nd Place** — HACKTRONICS Agritech Domain
-🔥 **50-Day Streak Badge** — LeetCode
+<img src="https://avatars.githubusercontent.com/Manabendu-ai" width="220" style="border-radius:8px; filter: grayscale(100%) contrast(120%);"/>
 
 </td>
-<td width="50%" valign="top">
+<td width="70%" valign="top" style="background-color:#0D1117;">
 
-### 🚀 What I Love Building
-🛸 LLM-powered **autonomous drones**
-⚡ Event-driven **microservice platforms**
-🧠 **RAG pipelines** & agentic AI systems
-🖥️ Full-stack apps with a Java + Python soul
-📊 Anything with a dashboard and a model behind it
+```
+$ whoami
+```
+
+**Manabendu Karfa** — Bengaluru-based **AI/ML Engineer-in-training**
+(B.E. AI & ML, CGPA **8.5**), ex-**Software Developer Intern** @ TwinTallies,
+and an active **open-source contributor** — SWOC 2025–26. Focused on
+LLM-powered systems, autonomous robotics, and backend engineering.
+
+```
+$ ls key_highlights/
+```
+
+> 🛸 &nbsp;**LLM-Controlled Drone** — GPS-denied autonomous UAV with LLM mission planning
+> ⚡ &nbsp;**Rikify Energy Tracker** — 7-service Kafka-driven microservices platform
+> 🌱 &nbsp;**Open Source** — Merged PR in `sklearn-genetic-opt`, SWOC 2025–26 contributor
+> 🥈 &nbsp;**2nd Place** — HACKTRONICS Agritech Domain, CMRIT College
+> 🎖️ &nbsp;**50-Day Streak** — LeetCode 2026
+
+```
+$ cat social_links.txt
+```
+
+<a href="https://www.linkedin.com/in/manabendu-karfa-890ba52a3"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=00F5A0"/></a>
+<a href="mailto:technoriku@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=flat-square&logo=gmail&logoColor=00F5A0"/></a>
+<a href="https://github.com/Manabendu-ai"><img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=00F5A0"/></a>
+<a href="#"><img src="https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=leetcode&logoColor=00F5A0"/></a>
 
 </td>
 </tr>
@@ -52,107 +51,74 @@
 
 <br/>
 
-<div align="center">
+## `>_` Key Projects & Contributions
 
-## 🧠 My AI / ML & LLM Universe
+```
+$ cd projects/
+```
 
-<table>
-<tr>
-<td align="center" width="110"><img src="https://skillicons.dev/icons?i=sklearn" height="50"/><br/><sub><b>Scikit-learn</b></sub></td>
-<td align="center" width="110"><img src="https://skillicons.dev/icons?i=tensorflow" height="50"/><br/><sub><b>TensorFlow</b></sub></td>
-<td align="center" width="110"><img src="https://skillicons.dev/icons?i=pytorch" height="50"/><br/><sub><b>PyTorch</b></sub></td>
-<td align="center" width="110"><img src="https://img.shields.io/badge/-%E2%80%8B-2FA5A0?style=for-the-badge" height="50"/><br/><sub><b>XGBoost</b></sub></td>
-<td align="center" width="110"><img src="https://img.shields.io/badge/-%E2%80%8B-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="50"/><br/><sub><b>LangChain</b></sub></td>
-</tr>
-<tr>
-<td align="center" width="110"><img src="https://img.shields.io/badge/-%E2%80%8B-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="50"/><br/><sub><b>Hugging Face</b></sub></td>
-<td align="center" width="110"><img src="https://img.shields.io/badge/-%E2%80%8B-000000?style=for-the-badge&logo=ollama&logoColor=white" height="50"/><br/><sub><b>Ollama</b></sub></td>
-<td align="center" width="110"><img src="https://skillicons.dev/icons?i=spring" height="50"/><br/><sub><b>Spring AI</b></sub></td>
-<td align="center" width="110"><img src="https://img.shields.io/badge/-🔎-8A2BE2?style=for-the-badge" height="50"/><br/><sub><b>RAG & Agentic AI</b></sub></td>
-</tr>
-</table>
-
-## ⚙️ Backend & Systems Engineering
-
-<table>
-<tr>
-<td align="center" width="110"><img src="https://skillicons.dev/icons?i=java" height="50"/><br/><sub><b>Java</b></sub></td>
-<td align="center" width="110"><img src="https://skillicons.dev/icons?i=spring" height="50"/><br/><sub><b>Spring Boot</b></sub></td>
-<td align="center" width="110"><img src="https://skillicons.dev/icons?i=fastapi" height="50"/><br/><sub><b>FastAPI</b></sub></td>
-<td align="center" width="110"><img src="https://skillicons.dev/icons?i=kafka" height="50"/><br/><sub><b>Kafka</b></sub></td>
-<td align="center" width="110"><img src="https://skillicons.dev/icons?i=hibernate" height="50"/><br/><sub><b>Hibernate</b></sub></td>
-</tr>
-<tr>
-<td align="center" width="110"><img src="https://skillicons.dev/icons?i=docker" height="50"/><br/><sub><b>Docker</b></sub></td>
-<td align="center" width="110"><img src="https://img.shields.io/badge/-%E2%80%8B-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="50"/><br/><sub><b>Streamlit</b></sub></td>
-</tr>
-</table>
-
-## 💻 Languages & Data
-
-<img src="https://skillicons.dev/icons?i=java,python,c,js,mysql,postgres,sqlite,mongodb&theme=dark" />
-
-## 🛠️ Toolbox
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,idea,anaconda,gradle,maven&theme=dark" />
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6,24&height=6&section=header"/>
-
-## 🚀 Projects I'm Proud Of
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🛸 LLM-Controlled Autonomous GPS-Denied Drone
+**🛸 LLM-Controlled Autonomous GPS-Denied Drone**
 `ROS 2` `Visual-Inertial SLAM` `LLM Planning` `Computer Vision`
+An autonomous UAV built for GPS-denied environments — fusing RGB-D camera, IMU
+& LiDAR through Visual-Inertial SLAM for real-time localization and mapping.
+An LLM-based mission planner turns plain-English commands into flight
+missions, backed by onboard hazard-detection and scene-understanding models.
+Dual-use across agriculture, inspection, and disaster response.
 
-An autonomous UAV built for GPS-denied environments — fusing RGB-D camera, IMU & LiDAR through Visual-Inertial SLAM for real-time localization and mapping. An **LLM-based mission planner** turns plain-English commands into flight missions, no waypoint programming needed, backed by onboard hazard-detection and scene-understanding models. 🌾🏗️🚨 Dual-use across agriculture, inspection, and disaster response.
-
-</td>
-<td width="50%" valign="top">
-
-### ⚡ Rikify Energy Tracker
+**⚡ Rikify Energy Tracker** — [`View Repo →`](https://github.com/Manabendu-ai/Rikify-Energy-Tracker)
 `Java 21` `Spring Boot 4` `Kafka` `Docker` `Spring AI`
+A 7-service microservices platform behind one gateway — Kafka-driven
+ingestion, InfluxDB time-series + MySQL, Resilience4j fault tolerance,
+OAuth2/JWT via Keycloak, Prometheus + Grafana observability, and an LLM
+insight service (Spring AI + Ollama) that writes plain-English usage summaries.
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Manabendu-ai/Rikify-Energy-Tracker)
+**🌱 Open Source Footprint** — [`Full Contribution Log →`](https://github.com/Manabendu-ai/Open-Source-Contributions)
 
-A **7-service microservices platform** behind one gateway — Kafka-driven ingestion, InfluxDB time-series + MySQL, Resilience4j fault tolerance, OAuth2/JWT via Keycloak, Prometheus + Grafana observability, and an **LLM insight service** (Spring AI + Ollama) that writes plain-English usage summaries. 📊🔐📈
-
-</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6,24&height=6&section=header"/>
-
-## 🌱 Open Source Footprint
-
-<div align="center">
-
-[![Open Source Log](https://img.shields.io/badge/Full%20Contribution%20Log-4CC9F0?style=for-the-badge&logo=bookstack&logoColor=white)](https://github.com/Manabendu-ai/Open-Source-Contributions)
-[![SWOC](https://img.shields.io/badge/🌍_SWOC_2025--26_Contributor-F72585?style=for-the-badge)](#)
-
-</div>
-
-| 🗂️ Project | 🏷️ Type | 🎯 Status |
+| Project | Type | Status |
 |---|---|---|
-| [sklearn-genetic-opt](https://github.com/rodrigo-arenas/Sklearn-genetic-opt) | 🧪 Test Coverage for `_candidate_label` | ✅ **Merged** — [PR #307](https://github.com/rodrigo-arenas/Sklearn-genetic-opt/pull/307) |
+| [sklearn-genetic-opt](https://github.com/rodrigo-arenas/Sklearn-genetic-opt) | Test coverage for `_candidate_label` | ✅ Merged — [PR #307](https://github.com/rodrigo-arenas/Sklearn-genetic-opt/pull/307) |
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6,24&height=6&section=header"/>
+## `>_` Tech Stack
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6,24&height=6&section=header"/>
+```
+$ cat skills.json
+```
 
-## 🏆 Leadership & Achievements
+**AI / ML / LLM**
+<img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch&theme=dark"/>
+<img src="https://img.shields.io/badge/XGBoost-0D1117?style=flat-square&logoColor=00F5A0"/>
+<img src="https://img.shields.io/badge/LangChain-0D1117?style=flat-square&logo=langchain&logoColor=00F5A0"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-0D1117?style=flat-square&logo=huggingface&logoColor=FFD21E"/>
+<img src="https://img.shields.io/badge/Ollama-0D1117?style=flat-square&logo=ollama&logoColor=00F5A0"/>
+<img src="https://img.shields.io/badge/RAG%20%26%20Agentic%20AI-0D1117?style=flat-square&logoColor=00F5A0"/>
+
+**Backend & Systems**
+<img src="https://skillicons.dev/icons?i=java,spring,fastapi,kafka,hibernate,docker&theme=dark"/>
+<img src="https://img.shields.io/badge/Streamlit-0D1117?style=flat-square&logo=streamlit&logoColor=FF4B4B"/>
+
+**Languages & Data**
+<img src="https://skillicons.dev/icons?i=java,python,c,js,mysql,postgres,sqlite,mongodb&theme=dark"/>
+
+**Toolbox**
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,idea,anaconda,gradle,maven&theme=dark"/>
+
+<br/>
+
+## `>_` Professional Presence
+
+> **LinkedIn**: [Manabendu Karfa](https://www.linkedin.com/in/manabendu-karfa-890ba52a3) — connect for professional endorsements.
+> **GitHub**: [@Manabendu-ai](https://github.com/Manabendu-ai) — track open-source development and repository commits.
+> **Open Source**: Actively contributing as a selected contributor in **SWOC 2025–26**, with a merged PR in `sklearn-genetic-opt`.
+
+<br/>
 
 <div align="center">
 
-🥈 **2nd Place** — Agritech Domain, HACKTRONICS (Circuit to Cloud), CMRIT College &nbsp;|&nbsp; 🎖️ **50 Days Badge** — LeetCode 2026 &nbsp;|&nbsp; 🎓 **President, Maths Club** — St. Joseph's PU College
+| 📦 Repositories | ⭐ Stars | 🔥 Streak | 🏆 Achievement | 👥 Profile Views |
+|:---:|:---:|:---:|:---:|:---:|
+| View on GitHub | View on GitHub | 50 Days | 2nd Place — HACKTRONICS | ![Profile Views](https://komarev.com/ghpvc/?username=Manabendu-ai&color=00F5A0&style=flat-square&label=)
 
 </div>
 
@@ -160,12 +126,8 @@ A **7-service microservices platform** behind one gateway — Kafka-driven inges
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-
-### ⭐ *"Code with logic, automate with intelligence, and build with purpose."*
-
-![Profile Views](https://komarev.com/ghpvc/?username=Manabendu-ai&color=F72585&style=for-the-badge&label=PROFILE+VIEWS)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6,24&height=150&section=footer"/>
+```
+$ echo "Code with logic, automate with intelligence, and build with purpose."
+```
 
 </div>
