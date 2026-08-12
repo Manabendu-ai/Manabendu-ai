@@ -29,16 +29,7 @@
 
 <table align="center">
 <tr>
-<td width="50%" valign="top">
 
-### 🎯 Who I Am
-🎓 **AI/ML Engineer-in-training** — B.E. AI & ML, CGPA **8.5**
-💼 Ex-**Software Developer Intern** @ TwinTallies
-🌱 **Open Source Contributor** — SWOC 2025–26
-🥈 **2nd Place** — HACKTRONICS Agritech Domain
-🔥 **50-Day Streak Badge** — LeetCode
-
-</td>
 <td width="50%" valign="top">
 
 ### 🚀 What I Love Building
