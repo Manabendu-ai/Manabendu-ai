@@ -60,15 +60,6 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6,24&height=6&section=header"/>
-
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-
-### ⭐ *"Code with logic, automate with intelligence, and build with purpose."*
-
-![Profile Views](https://komarev.com/ghpvc/?username=Manabendu-ai&color=F72585&style=for-the-badge&label=PROFILE+VIEWS)
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6,24&height=150&section=footer"/>
 
 </div>
