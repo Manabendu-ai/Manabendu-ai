@@ -4,20 +4,7 @@
   <img src="banner.png" alt="Banner" width="100%" />
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2600&pause=800&color=F72585,00F5D4,FEE440,4CC9F0&center=true&vCenter=true&multiline=false&width=800&lines=Training+models%2C+shipping+microservices;Building+LLM-powered+autonomous+drones;Java+%2B+Spring+Boot+by+day%2C+PyTorch+by+night;Open+Source+Contributor+at+SWOC+2025-26;Always+curious%2C+always+building" alt="Typing SVG" />
-
-<br/>
-
-<a href="https://www.linkedin.com/in/manabendu-karfa-890ba52a3">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:technoriku@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/Manabendu-ai"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6,24&height=6&section=header"/>
-
-</div>
+<!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2600&pause=800&color=F72585,00F5D4,FEE440,4CC9F0&center=true&vCenter=true&multiline=false&width=800&lines=Training+models%2C+shipping+microservices;Building+LLM-powered+autonomous+drones;Java+%2B+Spring+Boot+by+day%2C+PyTorch+by+night;Open+Source+Contributor+at+SWOC+2025-26;Always+curious%2C+always+building" alt="Typing SVG" /> -->
 
 <br/>
 
@@ -25,29 +12,9 @@
 
 <br/>
 
-## ✨ Quick Glance
-
-<table align="center">
-<tr>
-
-<td width="50%" valign="top">
-
-### 🚀 What I Love Building
-🛸 LLM-powered **autonomous drones**
-⚡ Event-driven **microservice platforms**
-🧠 **RAG pipelines** & agentic AI systems
-🖥️ Full-stack apps with a Java + Python soul
-📊 Anything with a dashboard and a model behind it
-
-</td>
-</tr>
-</table>
-
-<br/>
-
 <div align="center">
 
-## 🧠 My AI / ML & LLM Universe
+## My AI / ML & LLM Universe
 
 <table>
 <tr>
@@ -95,63 +62,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6,24&height=6&section=header"/>
 
-## 🚀 Projects I'm Proud Of
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🛸 LLM-Controlled Autonomous GPS-Denied Drone
-`ROS 2` `Visual-Inertial SLAM` `LLM Planning` `Computer Vision`
-
-An autonomous UAV built for GPS-denied environments — fusing RGB-D camera, IMU & LiDAR through Visual-Inertial SLAM for real-time localization and mapping. An **LLM-based mission planner** turns plain-English commands into flight missions, no waypoint programming needed, backed by onboard hazard-detection and scene-understanding models. 🌾🏗️🚨 Dual-use across agriculture, inspection, and disaster response.
-
-</td>
-<td width="50%" valign="top">
-
-### ⚡ Rikify Energy Tracker
-`Java 21` `Spring Boot 4` `Kafka` `Docker` `Spring AI`
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Manabendu-ai/Rikify-Energy-Tracker)
-
-A **7-service microservices platform** behind one gateway — Kafka-driven ingestion, InfluxDB time-series + MySQL, Resilience4j fault tolerance, OAuth2/JWT via Keycloak, Prometheus + Grafana observability, and an **LLM insight service** (Spring AI + Ollama) that writes plain-English usage summaries. 📊🔐📈
-
-</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6,24&height=6&section=header"/>
-
-## 🌱 Open Source Footprint
-
-<div align="center">
-
-[![Open Source Log](https://img.shields.io/badge/Full%20Contribution%20Log-4CC9F0?style=for-the-badge&logo=bookstack&logoColor=white)](https://github.com/Manabendu-ai/Open-Source-Contributions)
-[![SWOC](https://img.shields.io/badge/🌍_SWOC_2025--26_Contributor-F72585?style=for-the-badge)](#)
-
-</div>
-
-| 🗂️ Project | 🏷️ Type | 🎯 Status |
-|---|---|---|
-| [sklearn-genetic-opt](https://github.com/rodrigo-arenas/Sklearn-genetic-opt) | 🧪 Test Coverage for `_candidate_label` | ✅ **Merged** — [PR #307](https://github.com/rodrigo-arenas/Sklearn-genetic-opt/pull/307) |
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6,24&height=6&section=header"/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6,24&height=6&section=header"/>
-
-## 🏆 Leadership & Achievements
-
-<div align="center">
-
-🥈 **2nd Place** — Agritech Domain, HACKTRONICS (Circuit to Cloud), CMRIT College &nbsp;|&nbsp; 🎖️ **50 Days Badge** — LeetCode 2026 &nbsp;|&nbsp; 🎓 **President, Maths Club** — St. Joseph's PU College
-
-</div>
-
-<br/>
-
-<div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 
