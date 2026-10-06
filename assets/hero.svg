@@ -127,10 +127,10 @@
   <text x="40" y="136" class="hero-title anim-fade-2">MANABENDU KARFA</text>
 
   <g class="anim-fade-2">
-    <text x="40" y="172" class="hero-role role-step1">Java Backend Developer</text>
+    <text x="40" y="172" class="hero-role role-step1">Software Developer</text>
     <text x="40" y="172" class="hero-role role-step2">Software Developer</text>
-    <text x="40" y="172" class="hero-role role-step3">AI/ML &amp; RAG Engineer</text>
-    <text x="40" y="172" class="hero-role role-step4">Full Stack Developer</text>
+    <text x="40" y="172" class="hero-role role-step3">Software Developer</text>
+    <text x="40" y="172" class="hero-role role-step4">Software Developer</text>
   </g>
 
   <g class="anim-fade-3">
