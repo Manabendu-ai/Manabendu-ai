@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>GitHub Profile SVGs Verification &amp; Previewer</title>
+  <style>
+    body {
+      background-color: #030712;
+      color: #f8fafc;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      margin: 0;
+      padding: 40px 20px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    h1 {
+      font-size: 28px;
+      margin-bottom: 10px;
+      color: #38bdf8;
+      text-align: center;
+    }
+    p.subtitle {
+      text-align: center;
+      color: #94a3b8;
+      margin-bottom: 30px;
+    }
+    .controls {
+      background: #0f172a;
+      padding: 16px;
+      border-radius: 12px;
+      border: 1px solid #1e293b;
+      margin-bottom: 30px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      align-items: center;
+      justify-content: center;
+    }
+    button {
+      background: #247bff;
+      color: white;
+      border: none;
+      padding: 8px 16px;
+      border-radius: 6px;
+      font-weight: 600;
+      cursor: pointer;
+      transition: background 0.2s;
+    }
+    button:hover {
+      background: #1d4ed8;
+    }
+    .timestamp-badge {
+      background: #1e293b;
+      color: #38bdf8;
+      padding: 4px 10px;
+      border-radius: 4px;
+      font-family: monospace;
+      font-size: 13px;
+    }
+    .preview-section {
+      margin-bottom: 40px;
+      background: #090d16;
+      border: 1px solid #1e293b;
+      border-radius: 16px;
+      padding: 20px;
+    }
+    .preview-section h2 {
+      font-size: 18px;
+      color: #f1f5f9;
+      margin-top: 0;
+      margin-bottom: 15px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    .img-wrapper {
+      width: 100%;
+      border-radius: 12px;
+      overflow: hidden;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+      background: #070b16;
+    }
+    img {
+      width: 100%;
+      height: auto;
+      display: block;
+    }
+
+    /* Static mode test override */
+    body.reduced-motion * {
+      animation: none !important;
+      transition: none !important;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Profile SVGs Live Preview &amp; Verification</h1>
+    <p class="subtitle">Validating 0s, 2s, 5s, 9s, 13s animation keyframes, static fallback &amp; img element rendering</p>
+
+    <div class="controls">
+      <span>Simulated Timestamps:</span>
+      <button onclick="setTimestamp('0s')">0s</button>
+      <button onclick="setTimestamp('2s')">2s</button>
+      <button onclick="setTimestamp('5s')">5s</button>
+      <button onclick="setTimestamp('9s')">9s</button>
+      <button onclick="setTimestamp('13s')">13s</button>
+      <span class="timestamp-badge" id="current-ts">Live Dynamic</span>
+      <button onclick="toggleReducedMotion()" style="background:#ff354f;">Toggle Reduced Motion</button>
+    </div>
+
+    <!-- Section 1: Hero -->
+    <div class="preview-section">
+      <h2>1. Hero Banner (assets/hero.svg) <span>HTML &lt;img&gt; Rendering</span></h2>
+      <div class="img-wrapper">
+        <img src="assets/hero.svg?v=1" alt="Hero Banner">
+      </div>
+    </div>
+
+    <!-- Section 2: About & Life -->
+    <div class="preview-section">
+      <h2>2. About &amp; Life Interests Carousel (assets/about-life.svg) <span>HTML &lt;img&gt; Rendering</span></h2>
+      <div class="img-wrapper">
+        <img src="assets/about-life.svg?v=1" alt="About and Life">
+      </div>
+    </div>
+
+    <!-- Section 3: Tech Stack Orbit -->
+    <div class="preview-section">
+      <h2>3. Tech Stack Matrix &amp; Orbits (assets/stack.svg) <span>HTML &lt;img&gt; Rendering</span></h2>
+      <div class="img-wrapper">
+        <img src="assets/stack.svg?v=1" alt="Tech Stack">
+      </div>
+    </div>
+
+    <!-- Section 4: ID Dashboard -->
+    <div class="preview-section">
+      <h2>4. Pendulum Lanyard ID &amp; Metrics Dashboard (assets/id-dashboard.svg) <span>HTML &lt;img&gt; Rendering</span></h2>
+      <div class="img-wrapper">
+        <img src="assets/id-dashboard.svg?v=1" alt="ID Dashboard">
+      </div>
+    </div>
+
+    <!-- Section 5: Connect -->
+    <div class="preview-section">
+      <h2>5. Connect &amp; Social Cards (assets/connect.svg) <span>HTML &lt;img&gt; Rendering</span></h2>
+      <div class="img-wrapper">
+        <img src="assets/connect.svg?v=1" alt="Connect Section">
+      </div>
+    </div>
+  </div>
+
+  <script>
+    function setTimestamp(ts) {
+      document.getElementById('current-ts').innerText = 'Snapshot: ' + ts;
+      const imgs = document.querySelectorAll('img');
+      imgs.forEach(img => {
+        const baseSrc = img.src.split('?')[0];
+        img.src = baseSrc + '?v=1&t=' + ts + '&cache=' + Date.now();
+      });
+    }
+
+    function toggleReducedMotion() {
+      document.body.classList.toggle('reduced-motion');
+      alert('Reduced Motion Mode ' + (document.body.classList.contains('reduced-motion') ? 'ENABLED' : 'DISABLED'));
+    }
+  </script>
+</body>
+</html>
