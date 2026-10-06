@@ -1,5 +1,5 @@
 <div align="center">
 
-<img src = "github-descp.png" width = "50%">
+<img src = "github-descp.png">
 
 </div>
