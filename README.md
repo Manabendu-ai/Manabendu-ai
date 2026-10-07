@@ -1,5 +1,5 @@
 <div align="center">
 
-<img src = "github-descp.png">
+<img src = "git-purple.png">
 
 </div>
